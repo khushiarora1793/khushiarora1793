@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/khushi_arora17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khushi_arora17" height="30" width="40" /></a>
+<a href="https://twitter.com/khushi_arora17" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/twitter-logo-square-icon_444390-7003.jpg" alt="khushi_arora17" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/khushi arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushi arora" height="30" width="40" /></a>
 <a href="https://fb.com/khushi arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khushi arora" height="30" width="40" /></a>
 <a href="https://instagram.com/khushiarora1793" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khushiarora1793" height="30" width="40" /></a>
