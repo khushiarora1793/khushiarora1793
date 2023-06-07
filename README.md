@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khushi</h1>
 <h3 align="center">A passionate learner with a strong interest in software engineering</h3>
-<img align="right" width=400 alt="coding"src=""https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pxfuel.com%2Fen%2Fquery%3Fq%3Dcomputer%2Bscience%2Blogo&psig=AOvVaw2KLvytEnHhp4YxAJYdt4lE&ust=1686250253559000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLC77uzpsf8CFQAAAAAdAAAAABAE">
+<img align="right" width=400 alt="coding"src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Computer_science_education.png/475px-Computer_science_education.png">
 
 - 🌱 I’m currently learning **Machine learning**
 
