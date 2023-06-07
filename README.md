@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://twitter.com/khushi_arora17" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/twitter-logo-square-icon_444390-7003.jpg" alt="khushi_arora17" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/khushi arora" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="khushi arora" height="30" width="40" /></a>
-<a href="https://fb.com/khushi arora" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlxHMW-7BbL7XMYi37Q1B3UdzD84FjaBQH-Q&usqp=CAU" alt="khushi arora" height="30" width="40" /></a>
+<a href="https://fb.com/khushi arora" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/2048px-Facebook_icon.svg.png" alt="khushi arora" height="30" width="40" /></a>
 <a href="https://instagram.com/khushiarora1793" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="khushiarora1793" height="30" width="40" /></a>
 </p>
 
